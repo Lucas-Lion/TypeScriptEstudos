@@ -21,6 +21,3 @@
 <h2>Contribuição</h2>
 
 <p>Contribuições são bem-vindas! Sinta-se à vontade para enviar sugestões, correções ou novos exemplos por meio de issues ou pull requests.</p>
-
-</body>
-</html>
